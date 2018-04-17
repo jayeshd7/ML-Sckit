@@ -13,3 +13,6 @@ sklearn.preprocessing.CategoricalEncoder :-
 
 For more details go to below link
 http://scikit-learn.org/dev/modules/generated/sklearn.preprocessing.CategoricalEncoder.html
+
+
+This also content Basics of pandas which is covered all exercise during Certification of Pandas with data science.
